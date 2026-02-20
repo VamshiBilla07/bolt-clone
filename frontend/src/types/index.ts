@@ -4,7 +4,7 @@ export enum StepType {
   EditFile,
   DeleteFile,
   RunScript
-}
+}.
 
 export interface Step {
   id: number;
